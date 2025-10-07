@@ -12,4 +12,5 @@
 - **รหัสนักศึกษา:** 653450095-6  
 ---
 
-![IMG_3189](https://github.com/user-attachments/assets/98c03e7d-ba53-447b-b06a-c5e144d2591b)
+<img src="https://github.com/user-attachments/assets/98c03e7d-ba53-447b-b06a-c5e144d2591b" alt="IMG_3189" width="300" />
+
